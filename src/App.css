@@ -1,0 +1,23 @@
+.cabeaclho{
+    background-color: #f2f2f2;
+}
+
+ .nav-item .rosa:hover{
+    color: rgb(139, 243, 243);
+}
+
+.conteudo{
+    background-color: gray;
+}
+
+.perfumaria{
+    background-color: pink;
+}
+
+.artigos{
+    background-color: rgb(200, 181, 218);
+}
+
+.produtos{
+    border-bottom: 1px solid black;
+}
